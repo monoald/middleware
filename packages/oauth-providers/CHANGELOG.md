@@ -1,5 +1,11 @@
 # @hono/oauth-providers
 
+## 0.5.0
+
+### Minor Changes
+
+- [`4effa58c94d3d2c7ca1619c731790f18455ea3a9`](https://github.com/honojs/middleware/commit/4effa58c94d3d2c7ca1619c731790f18455ea3a9) Thanks [@monoald](https://github.com/monoald)! - Requesting github for user email with token
+
 ## 0.4.0
 
 ### Minor Changes
